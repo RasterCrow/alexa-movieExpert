@@ -1,4 +1,4 @@
-# alexa-moviewExpert
+# alexa-movieExpert
 This was my last, most difficult and less succesfull skill for alexa
 
 # Contents
